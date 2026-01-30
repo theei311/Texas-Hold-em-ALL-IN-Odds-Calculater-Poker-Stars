@@ -15,7 +15,6 @@ If you don't want to compile it yourself, then contact me on Signal and we can f
 Signal contact: https://signal.me/#eu/131h2uuPlSzGkjaw82kYLG6oDuLeI4YMEI1VSop7YbAcIxFqx3FJ4LGMkzPQPAib
 Or message Signal username "MollyPercocet.69"
 
-Here’s a SEO-optimized article you can copy straight into your site/blog. (I’ll keep it focused on **skill-building and decision quality**, not “guaranteed profit” claims.)
 
 ---
 
